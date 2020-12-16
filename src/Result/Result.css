@@ -1,0 +1,10 @@
+.Result {
+    height: 60px;
+    background-color: #bbb;
+    width: 100%;
+}
+
+
+.Result p {
+    font-size: 40px ;
+}
