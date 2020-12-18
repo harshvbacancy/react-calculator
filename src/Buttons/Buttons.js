@@ -31,6 +31,10 @@ class Buttons extends Component {
           <button name="." onClick={this.buttonPressed}>.</button> 
           <button name="=" onClick={this.buttonPressed}>=</button> 
           <button name="/" onClick={this.buttonPressed}>/</button> 
+          <button name="%" onClick={this.buttonPressed}>%</button> 
+          <button name="SQRT" onClick={this.buttonPressed}>SQRT</button> 
+          <button name="SQ" onClick={this.buttonPressed}>SQ</button> 
+          <button name="x" onClick={this.buttonPressed}>x</button> 
 
       </div>
     );
